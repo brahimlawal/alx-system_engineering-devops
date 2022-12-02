@@ -1,16 +1,2 @@
 #!/bin/bash
-ls -mpa >> 103-commas
-
-
-
-
-
-
-
-
-
-
-
-
-echo ls -mpa
-ls -mpa
+ls -a -p -m
